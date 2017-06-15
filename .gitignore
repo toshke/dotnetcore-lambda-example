@@ -1,0 +1,6 @@
+out.txt
+*/bin/Debug*
+*/bin/Release*
+*/obj/*
+*.sln
+*.userprefs
